@@ -13,10 +13,10 @@ module Console.IO
 @docs putStr, putStrLn, print
 
 # stdin
-question, readLn
+@docs question, readLn
 
 # file operation
-readFile, writeFile
+@docs readFile, writeFile
 -}
 
 import Console(..)
