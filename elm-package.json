@@ -1,5 +1,5 @@
 {
-    "version": "0.1.0",
+    "version": "1.0.0",
     "summary": "another implimentation IO in Elm.",
     "repository": "https://github.com/philopon/console.git",
     "license": "BSD3",
@@ -7,10 +7,10 @@
         "src"
     ],
     "exposed-modules": [
-      "Console",
-      "Console.Internal",
-      "Console.IO",
-      "Console.Exit"
+        "Console",
+        "Console.Internal",
+        "Console.IO",
+        "Console.Exit"
     ],
     "native-modules": true,
     "dependencies": {
